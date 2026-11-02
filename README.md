@@ -119,3 +119,7 @@ Add the stream to OBS, then use OBS's virtual camera as the camera in Zoom.
 
 The stream is served without authentication to anyone who can reach the ports.
 Use it on a trusted LAN only. Do not forward these ports to the internet.
+
+## License
+
+[MIT](LICENSE)
